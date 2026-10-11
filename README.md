@@ -68,7 +68,7 @@ CT-Scan-Reconstruction/
 
 Built collaboratively by:
 
-- **Vanshika Kukumanu**
+- **Vanshika Kakumanu**
 - **Srujana S Ravi**
 - **Sinchana M**
 - **Tanisha Patro**
